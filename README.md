@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on information security projects and database administration.
 - 📫 How to reach me pablofsousa07@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Cr0wPabloF=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiCr0wPabloF=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)

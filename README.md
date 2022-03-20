@@ -4,4 +4,6 @@
 - 💞️ I’m looking to collaborate on information security projects and database administration.
 - 📫 How to reach me pablofsousa07@gmail.com
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=Cr0wPabloF&show_icons=true)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=Cr0wPabloF&show_icons=true&theme=dark)
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
